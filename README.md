@@ -18,7 +18,7 @@ FastAPI는 파이썬으로 API를 구축할 수 있게 해주는 빠르고 효�
 
 ## 목차
 **PART 1. FastAPI 학습하기**  
-CHAPTER 1. FastAPI 소개
+CHAPTER 1. FastAPI 소개  
 CHAPTER 2. 라우팅  
 CHAPTER 3. 응답 모델과 오류 처리  
 CHAPTER 4. 템플릿팅  
