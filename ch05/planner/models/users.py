@@ -14,7 +14,7 @@ class User(BaseModel):
         schema_extra = {
             "example": {
                 "email": "fastapi@packt.com",
-                "username": "strong!!!",
+                "password": "strong!!!",
                 "events": [],
             }
         }
